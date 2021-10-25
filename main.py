@@ -24,12 +24,12 @@ print('')
 user = input(Back.BLACK + Fore.WHITE + "Enter Username: ")
 
 data = {"usernames":[user]}
-
+#if you get error you need to update authorization cookie "bearer etc"
 headers = {
     'accept': '*/*',
     'content-type': 'application/json',
     'x-apiversion': '1.28.0.f1605',
-    'authorization': 'Bearer NzEwNDkwMzMzOjZmNGQ4MzAyMjA1MzVjNGQxMDdmZmZkMTNiMDQ2ODE1OjY4MTQ4NDExMzpmZGUzN2FjMjdjMWUwM2EwY2RlYTVmYzkxNTAxMDdlYjpjS1MySFBuUkFSUEtBL0xXd09HdTZNZ2pvVjhIbDg2b1pIYUpjeWR0V1BXdy9JWWd6b3IrZzYvR2FpclhRUnNMM3cxa2dYTTdGaXZDNVR3d2ZRRG13QT09',
+    'authorization': 'Bearer NzEwNzMyMjAwOjJiNjY5YzExZDM1ZTE4MDlmOWI5ZDJjZWJiMjVlYzc5OjY4MTcxNTM1NTphZWYzYTk3YTFmNGRkZDI3NzU4OWVhYjQ2YzhkNjdiNDpkN1hTUXgvc1ZqUFp3Qy95bFplYWNVdGFJb29BR0pmNWlWb3A5TlprQzVOR3I4eXd2YzYrQUZoaDlWRmp3YzBjSGtHZEVxTGFEQ0dFMEhkdDA0WEJMQT09',
     'content-length': '21',
     'x-unity-version': '2020.3.19f1',
     'accept-language': 'en-ca',
