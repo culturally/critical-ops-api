@@ -1,0 +1,205 @@
+[
+    {
+        "basicInfo": {
+            "userID": 1037830,
+            "name": "WattieX",
+            "userType": 64,
+            "iconID": 318,
+            "level": 294
+        },
+        "userSettings": {
+            "blockFriendRequests": false,
+            "block_clan_requests": false,
+            "equipped_emblem": 316
+        },
+        "friendStatus": 0,
+        "stats": {
+            "seasonal_stats": [
+                {
+                    "season": 0,
+                    "ranked": {
+                        "k": 3978,
+                        "d": 3593,
+                        "a": 651,
+                        "w": 202,
+                        "l": 196
+                    },
+                    "casual": {
+                        "k": 0,
+                        "d": 0,
+                        "a": 0,
+                        "w": 25,
+                        "l": 18
+                    },
+                    "custom": {
+                        "k": 89270,
+                        "d": 47063,
+                        "a": 8584,
+                        "w": 0,
+                        "l": 0
+                    }
+                },
+                {
+                    "season": 1,
+                    "ranked": {
+                        "k": 732,
+                        "d": 937,
+                        "a": 115,
+                        "w": 41,
+                        "l": 47
+                    },
+                    "casual": {
+                        "k": 0,
+                        "d": 0,
+                        "a": 0,
+                        "w": 192,
+                        "l": 94
+                    },
+                    "custom": {
+                        "k": 0,
+                        "d": 0,
+                        "a": 0,
+                        "w": 0,
+                        "l": 0
+                    }
+                },
+                {
+                    "season": 2,
+                    "ranked": {
+                        "k": 339,
+                        "d": 403,
+                        "a": 52,
+                        "w": 19,
+                        "l": 19
+                    },
+                    "casual": {
+                        "k": 0,
+                        "d": 0,
+                        "a": 0,
+                        "w": 375,
+                        "l": 194
+                    },
+                    "custom": {
+                        "k": 252,
+                        "d": 192,
+                        "a": 41,
+                        "w": 1,
+                        "l": 1
+                    }
+                },
+                {
+                    "season": 3,
+                    "ranked": {
+                        "k": 1327,
+                        "d": 1486,
+                        "a": 176,
+                        "w": 60,
+                        "l": 39
+                    },
+                    "casual": {
+                        "k": 6618,
+                        "d": 2966,
+                        "a": 428,
+                        "w": 241,
+                        "l": 135
+                    },
+                    "custom": {
+                        "k": 367,
+                        "d": 369,
+                        "a": 37,
+                        "w": 0,
+                        "l": 0
+                    }
+                },
+                {
+                    "season": 4,
+                    "ranked": {
+                        "k": 809,
+                        "d": 1054,
+                        "a": 146,
+                        "w": 29,
+                        "l": 35
+                    },
+                    "casual": {
+                        "k": 2390,
+                        "d": 1201,
+                        "a": 162,
+                        "w": 76,
+                        "l": 35
+                    },
+                    "custom": {
+                        "k": 225,
+                        "d": 206,
+                        "a": 19,
+                        "w": 0,
+                        "l": 0
+                    }
+                },
+                {
+                    "season": 5,
+                    "ranked": {
+                        "k": 941,
+                        "d": 1117,
+                        "a": 181,
+                        "w": 34,
+                        "l": 41
+                    },
+                    "casual": {
+                        "k": 2551,
+                        "d": 1433,
+                        "a": 223,
+                        "w": 62,
+                        "l": 37
+                    },
+                    "custom": {
+                        "k": 127,
+                        "d": 154,
+                        "a": 12,
+                        "w": 0,
+                        "l": 0
+                    }
+                },
+                {
+                    "season": 6,
+                    "ranked": {
+                        "k": 963,
+                        "d": 998,
+                        "a": 181,
+                        "w": 33,
+                        "l": 28
+                    },
+                    "casual": {
+                        "k": 632,
+                        "d": 407,
+                        "a": 73,
+                        "w": 23,
+                        "l": 9
+                    },
+                    "custom": {
+                        "k": 132,
+                        "d": 140,
+                        "a": 16,
+                        "w": 0,
+                        "l": 0
+                    }
+                }
+            ],
+            "ranked": {
+                "placement_matches_left": 0,
+                "highest_rank": 7,
+                "rating": 1739,
+                "rank": 7
+            }
+        },
+        "ban": null,
+        "reports": [],
+        "clan": {
+            "basicInfo": {
+                "name": "Wattielicious",
+                "tag": "WATX"
+            },
+            "id": 15593,
+            "memberRank": 40
+        }
+    }
+]
