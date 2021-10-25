@@ -29,7 +29,7 @@ headers = {
     'accept': '*/*',
     'content-type': 'application/json',
     'x-apiversion': '1.28.0.f1605',
-    'authorization': 'Bearer NzEwNzMyMjAwOjJiNjY5YzExZDM1ZTE4MDlmOWI5ZDJjZWJiMjVlYzc5OjY4MTcxNTM1NTphZWYzYTk3YTFmNGRkZDI3NzU4OWVhYjQ2YzhkNjdiNDpkN1hTUXgvc1ZqUFp3Qy95bFplYWNVdGFJb29BR0pmNWlWb3A5TlprQzVOR3I4eXd2YzYrQUZoaDlWRmp3YzBjSGtHZEVxTGFEQ0dFMEhkdDA0WEJMQT09',
+    'authorization': 'Bearer NzEwNzQ0NzQzOjM4Njk4ODA3MTI3MDBlZjQzNzY5MzRkYTc5MWE2MTNmOjY4MTcyNzI5MTpiNGM0NjI3YjIyNjUwODk1OTY2MmUzNDcwNzY1MmQyYTpjY3pIY3Iyc2lFRlRCQml3TitXUlpvQTd5ZWJ5ei93R0xFTjJIM21rQUIzTjlvUFEzRHk1bkswa2Z0OE4rcExRK1BUdCtCZzJpajNwbkE2QVF3cWN0dz09',
     'content-length': '21',
     'x-unity-version': '2020.3.19f1',
     'accept-language': 'en-ca',
