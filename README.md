@@ -5,7 +5,8 @@ API can get userID,name,level,iconID,userType,userSettings: (blockFriendReqests,
 Player info is saved everytime in playerinfo.json file
 
 IF YOU GET ERROR YOU NEED TO UPDATE AUTHORIZATION COOKIE (BEARER ETC)
-
+ALL INFO WAS OBTAINED LEGALLY
+FOR EDUCATIONAL PURPOSES ONLY
 # Example
 ![image](https://user-images.githubusercontent.com/70502697/138744147-3bc46fc2-ab75-4c1d-9817-8cb345ae9d39.png)
 # Requirements
